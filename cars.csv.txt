@@ -1,0 +1,6 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+Maruti Swift Dzire VDI,2014,4.5,6.87,145500,Diesel,Individual,Manual,0
+Skoda Rapid 1.5 TDI Ambition,2014,7.5,9.83,52000,Diesel,Dealer,Manual,0
+Honda City 2017-2020 EXi,2006,1.75,8.35,154000,Petrol,Individual,Manual,0
+Hyundai i20 Sportz,2010,2.85,6.79,73000,Petrol,Dealer,Manual,0
+Maruti Alto LX BSIII,2007,0.75,3.49,88000,Petrol,Individual,Manual,0
